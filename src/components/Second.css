@@ -1,0 +1,19 @@
+.second{
+    display: flex;
+}
+.a1{
+    margin-right: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.logo{
+    margin-right: 50px;
+}
+.a2{
+    width:100px;
+    height:70px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}

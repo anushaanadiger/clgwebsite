@@ -1,0 +1,29 @@
+.welcome{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:rgb(18, 71, 73);
+    margin-top: 50px;
+
+}
+.welcome2{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color:black;
+    margin-bottom: 0px;
+}
+.class1{
+    width:500px;
+    height:310px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+.wel{
+    display: flex;
+}
+.wel2{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 60px;
+}

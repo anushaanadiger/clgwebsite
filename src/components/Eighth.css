@@ -1,0 +1,84 @@
+.events{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a{
+    display: flex;
+}
+.work{
+    width: 450px;
+    height: 230px;
+    margin-right: 20px;
+}
+.ab{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:20px ;
+    margin-right: 20px;
+    background-color: rgba(255, 192, 203, 0.575);
+}
+.ba{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:20px ;
+    margin-right: 20px;
+    background-color:   rgba(255, 192, 203, 0.575);
+}
+.Environment{
+    width: 450px;
+    height: 230px;
+    margin-left: 20px;
+}
+.b{
+    display: flex;
+}
+.ca{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:20px ;
+    margin-right: 20px;
+    background-color:   rgba(255, 192, 203, 0.575);
+}
+.Kannada{
+    width: 500px;
+    height: 230px;
+    margin-right: 20px;
+}
+.c{
+    display:flex;
+}
+.da{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:20px ;
+    margin-right: 20px;
+    background-color:   rgba(255, 192, 203, 0.575);
+}
+.d{
+    display: flex;
+}
+.Graduation{
+    width: 500px;
+    height: 230px;
+    margin-left: 20px;
+}
+.e{
+    display: flex;
+}
+.ea{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:20px ;
+    margin-right: 20px;
+    background-color:  rgba(255, 192, 203, 0.575);
+}
+.Secura{
+    width: 540px;
+    height: 230px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.f{
+    margin-left: 500px;
+}

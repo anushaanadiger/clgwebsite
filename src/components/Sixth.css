@@ -1,0 +1,26 @@
+.vision{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color:  rgb(214, 250, 180);
+    margin-left: 10px;
+    margin-top: 0px;
+    color: rgb(94, 9, 9);
+}
+.mission{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color:  rgb(214, 250, 180);
+    margin-left: 10px;
+    margin-top: 0px; 
+    color: rgb(94, 9, 9);
+}
