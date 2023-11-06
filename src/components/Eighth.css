@@ -16,14 +16,14 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left:20px ;
     margin-right: 20px;
-    background-color: rgba(255, 192, 203, 0.575);
+    background-color: rgba(240, 214, 182, 0.986);
 }
 .ba{
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
     margin-left:20px ;
     margin-right: 20px;
-    background-color:   rgba(255, 192, 203, 0.575);
+    background-color:  rgba(240, 214, 182, 0.986);
 }
 .Environment{
     width: 450px;
@@ -38,7 +38,7 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left:20px ;
     margin-right: 20px;
-    background-color:   rgba(255, 192, 203, 0.575);
+    background-color:  rgba(240, 214, 182, 0.986);
 }
 .Kannada{
     width: 500px;
@@ -53,7 +53,7 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left:20px ;
     margin-right: 20px;
-    background-color:   rgba(255, 192, 203, 0.575);
+    background-color:  rgba(240, 214, 182, 0.986);
 }
 .d{
     display: flex;
@@ -71,7 +71,7 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left:20px ;
     margin-right: 20px;
-    background-color:  rgba(255, 192, 203, 0.575);
+    background-color:  rgba(240, 214, 182, 0.986);
 }
 .Secura{
     width: 540px;
