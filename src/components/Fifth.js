@@ -14,7 +14,7 @@ function Fifth(){
             </div>
             <div className='wel'>
             <div>
-                <img class='class1' src={black}></img>
+                <img alt='clg' class='class1' src={black}></img>
             </div>            
             <div className='wel2'>
                 <h1> A Dream Place To Build Your Career....</h1>

@@ -17,13 +17,13 @@ function Eighth(){
                     <h4>Department of Computer Science & Engineering conducted three days workshop on Android application Development and Python Programming from 14th to 16th June 2023.</h4>
                 </div>
                 <div>
-                    <img className='work' src={work}></img>
+                    <img alt='workshop' className='work' src={work}></img>
                 </div>
             </div>
             <br></br>
             <div className='b'>
                 <div>
-                    <img className='Environment' src={environment}></img>
+                    <img alt='Environment' className='Environment' src={environment}></img>
                 </div>
                 <div className='ba'>
                     <h2>World Environment Day Celebration</h2>
@@ -37,13 +37,13 @@ function Eighth(){
                     <h4>Kannada Rajyotsava was celebrated on 26th Nov 2022 at STJ Institute of Technology.</h4>
                 </div>
                 <div>
-                    <img className='Kannada' src={kannada}></img>
+                    <img alt='kannada' className='Kannada' src={kannada}></img>
                 </div>
             </div>
             <br></br>
             <div className='d'>
                 <div>
-                    <img className='Graduation' src={graduation}></img>
+                    <img alt='graduation' className='Graduation' src={graduation}></img>
                 </div>
                 <div className='da'>
                     <h2>Graduation day-2023</h2>
@@ -57,12 +57,12 @@ function Eighth(){
                     <h4>Annual day celebrated on 31-05-2023 at STJ Institute of Technology.</h4>
                 </div>
                 <div>
-                    <img className='Secura' src={secura}></img>
+                    <img alt='secura' className='Secura' src={secura}></img>
                 </div>
             </div>
             <br></br>
             <div className='f'>
-                <img className='view' src={viewmore}></img>
+                <img alt='view' className='view' src={viewmore}></img>
             </div>
         </div>
     );

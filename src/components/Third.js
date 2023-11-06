@@ -5,11 +5,11 @@ import './Third.css';
 function Third(){
     return(
         <div>
-            <img className='clg' src={college}></img>
+            <img alt='clg' className='clg' src={college}></img>
             <br></br>
             <br></br>
                 <h1 className='cse'>-- CSE Students --</h1>
-            <img className='class' src={pic}></img>
+            <img alt='class' className='class' src={pic}></img>
         </div>
 
     );

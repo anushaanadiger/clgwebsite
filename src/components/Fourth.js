@@ -13,27 +13,27 @@ function Fourth(){
             <h1>--Welcome To Our College--</h1>
         <div className='fourth'>
             <div>
-                <img className='clgg' src={clg2}></img>
+                <img alt='clgg' className='clgg' src={clg2}></img>
                 <br></br>
                 <h4 className='clgg2'>STJIT</h4>
                 <br></br>
-                <img className='clgg' src={clg3}></img>
+                <img alt='clgg' className='clgg' src={clg3}></img>
                 <br></br>
                 <h4 className='clgg2'>STJIT</h4>
             </div>
             <div>
-                <img className='clgg1' src={swami}></img>
+                <img alt='clgg' className='clgg1' src={swami}></img>
                 <br></br>
                 <p className='clgg3'> Dr. Shivamurthy Shivacharya Mahaswamiji </p>
                 <p className='clgg3'>President, </p>
                 <p className='clgg3'>STJ Education Society</p>
             </div>
             <div>
-                <img className='clgg' src={clg4}></img>
+                <img alt='clgg' className='clgg' src={clg4}></img>
                 <br></br>
                 <h4 className='clgg2'>STJIT</h4>
                 <br></br>
-                <img className='clgg' src={clg5}></img>
+                <img alt='clgg' className='clgg' src={clg5}></img>
                 <br></br>
                 <h4 className='clgg2'>STJIT</h4>
             </div>
