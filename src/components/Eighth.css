@@ -11,12 +11,17 @@
     height: 230px;
     margin-right: 20px;
 }
+.work:hover{
+    scale: 1.05;
+    transition: ease-in-out 0.5s;
+}
 .ab{
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
     margin-left:20px ;
     margin-right: 20px;
     background-color: rgba(240, 214, 182, 0.986);
+    padding: 20px;
 }
 .ba{
     font-size: 22px;
@@ -24,11 +29,16 @@
     margin-left:20px ;
     margin-right: 20px;
     background-color:  rgba(240, 214, 182, 0.986);
+    padding: 20px;
 }
 .Environment{
     width: 450px;
     height: 230px;
     margin-left: 20px;
+}
+.Environment:hover{
+    scale: 1.05;
+    transition: ease-in-out 0.5s;
 }
 .b{
     display: flex;
@@ -39,11 +49,16 @@
     margin-left:20px ;
     margin-right: 20px;
     background-color:  rgba(240, 214, 182, 0.986);
+    padding: 20px;
 }
 .Kannada{
     width: 500px;
     height: 230px;
     margin-right: 20px;
+}
+.Kannada:hover{
+    scale: 1.05;
+    transition: ease-in-out 0.5s;
 }
 .c{
     display:flex;
@@ -54,6 +69,7 @@
     margin-left:20px ;
     margin-right: 20px;
     background-color:  rgba(240, 214, 182, 0.986);
+    padding: 20px;
 }
 .d{
     display: flex;
@@ -62,6 +78,10 @@
     width: 500px;
     height: 230px;
     margin-left: 20px;
+}
+.Graduation:hover{
+    scale: 1.05;
+    transition: ease-in-out 0.5s;
 }
 .e{
     display: flex;
@@ -72,6 +92,7 @@
     margin-left:20px ;
     margin-right: 20px;
     background-color:  rgba(240, 214, 182, 0.986);
+    padding: 20px;
 }
 .Secura{
     width: 540px;
@@ -79,6 +100,14 @@
     margin-right: 10px;
     margin-left: 20px;
 }
+.Secura:hover{
+    scale: 1.05;
+    transition: ease-in-out 0.5s;
+}
 .f{
     margin-left: 500px;
+}
+.f:hover{
+    scale: 1.05;
+    transition: ease-in-out 0.5s;
 }
