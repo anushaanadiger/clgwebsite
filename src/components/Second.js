@@ -5,7 +5,7 @@ function Second(){
     return(
         <div className="second">
             <div>
-                <img alt='logo' className='logo' src={logo}></img>
+                <img alt='stjit logo' className='logo' src={logo}></img>
             </div>
             <div className='a1'>
                 <h3>Home</h3>
